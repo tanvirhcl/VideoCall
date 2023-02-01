@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">VideoCall</string>
+    <string name="channel_id">notification_channel</string>
+</resources>
